@@ -1,0 +1,28 @@
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\Simipja Api.exe
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\Simipja Api.deps.json
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\Simipja Api.runtimeconfig.json
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\Simipja Api.runtimeconfig.dev.json
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\Simipja Api.dll
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\ref\Simipja Api.dll
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\Simipja Api.pdb
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\Simipja Api.csproj.AssemblyReference.cache
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\Simipja Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\Simipja Api.AssemblyInfoInputs.cache
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\Simipja Api.AssemblyInfo.cs
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\Simipja Api.csproj.CoreCompileInputs.cache
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\Simipja Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\Simipja Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\scopedcss\bundle\Simipja Api.styles.css
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\staticwebassets\Simipja Api.StaticWebAssets.Manifest.cache
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\Simipja Api.RazorTargetAssemblyInfo.cache
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\Simipja Api.csproj.CopyComplete
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\Simipja Api.dll
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\ref\Simipja Api.dll
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\Simipja Api.pdb
+C:\Users\Karina Ku Peña\Desktop\Simipja Api\Simipja Api\obj\Debug\net5.0\Simipja Api.genruntimeconfig.cache
